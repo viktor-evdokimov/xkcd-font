@@ -4,7 +4,7 @@
   "description": "xkcd and xkcd-script fonts derived from the handwriting of @randallmunroe and rendered by ipython project. Licensed under CCPL",
   "main": "index.js",
   "files": [
-    "static/xkcd-font.woff",
+    "static/xkcd-script.woff",
     "static/style.css"
   ],
   "scripts": {
