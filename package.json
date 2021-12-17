@@ -1,6 +1,6 @@
 {
   "name": "xkcd-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "xkcd and xkcd-script fonts derived from the handwriting of @randallmunroe and rendered by ipython project. Licensed under CCPL",
   "main": "index.js",
   "files": [
