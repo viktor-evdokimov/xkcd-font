@@ -1,0 +1,31 @@
+{
+  "name": "xkcd-font",
+  "version": "1.0.0",
+  "description": "xkcd and xkcd-script fonts derived from the handwriting of @randallmunroe and rendered by ipython project. Licensed under CCPL",
+  "main": "index.js",
+  "files": [
+    "static/xkcd-font.woff",
+    "static/style.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor-evdokimov/xkcd-font.git"
+  },
+  "keywords": [
+    "xkcd",
+    "font",
+    "xkcd-script",
+    "randall",
+    "munroe",
+    "handwriting"
+  ],
+  "author": "Viktor <info@viktor.tech> (https://viktor.tech/)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/viktor-evdokimov/xkcd-font/issues"
+  },
+  "homepage": "https://github.com/viktor-evdokimov/xkcd-font#readme"
+}

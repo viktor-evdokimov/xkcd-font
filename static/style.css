@@ -1,0 +1,10 @@
+@font-face {
+	font-family: xkcd-script;
+	src: url('xkcd-script.woff') format('woff');
+}
+
+.xkcd-script {
+	font-family: xkcd-script;
+	color: black;
+	line-height: 150%;
+}
